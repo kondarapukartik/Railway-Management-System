@@ -3,18 +3,18 @@ The Railway Management System - Book tickets Online
 https://github.com/user-attachments/assets/92153d8d-3dab-4072-a630-b88bb3efe3ee
 
 Railway Management System – Key Features
-Includes separate modules for passengers and admins for better role-based access.
+Includes separate modules for passengers and admins for role-based access and functionality.
 
-Allows passengers to book tickets with a user-friendly interface.
+Allows passengers to book tickets through an intuitive desktop interface.
 
-Supports simulated payment functionality to mimic real-world transactions.
+Supports simulated payment functionality to demonstrate the transaction process.
 
-Enables admins to manage train schedules, including adding, updating, and deleting train details.
+Features a QR code scanner simulation — when scanned using a phone, it shows a “Payment Done” confirmation to mimic real-world UPI payments.
 
-Built using Java Swing for the frontend UI to provide a desktop application experience.
+Enables admins to manage train schedules, including adding, editing, and deleting train information.
 
-Uses Java for backend logic to handle business rules and application flow.
+Built with Java Swing for a clean and responsive GUI.
 
-Stores data using SQL, ensuring persistent storage of users, bookings, and schedules.
+Uses Java for backend business logic to process bookings and admin tasks.
 
-Designed to be a streamlined and intuitive system for efficient railway operations.
+Employs SQL for secure and persistent data storage of users, trains, and bookings.
